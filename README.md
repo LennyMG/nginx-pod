@@ -1,2 +1,2 @@
 # nginx-pod
-single pod using nginx Image
+single pod creation using nginx Image
